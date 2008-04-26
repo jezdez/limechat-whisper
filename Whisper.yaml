@@ -6,15 +6,14 @@ log-view:
     scroller-highlight-color: '#d33b54'
 
 member-list:
-    font-family: 'Lucida Sans'
-    font-weight: bold
-    font-size: 10.5
-    color: '#888'
+    font-family: 'Lucida Grande'
+    font-size: 11
+    color: '#444'
     background-color: '#fff'
     operator:
-        color: '#333'
+        color: '#000'
     selected:
-        color: '#303030'
+        color: '#000'
         background:
             # gradient
             top-line-color: '#ffc'
@@ -23,10 +22,9 @@ member-list:
             bottom-color: '#ffc'
 
 server-tree:
-    font-family: 'Lucida Sans'
-    font-weight: bold
-    font-size: '10.5'
-    color: '#888'
+    font-family: 'Lucida Grande'
+    font-size: 11
+    color: '#444'
     background-color: '#fff'
     highlight:
         color: '#d33b54'
@@ -36,12 +34,12 @@ server-tree:
         color: '#d33b54'
     normal:
         active:
-            color: '#999'
+            color: '#444'
         inactive:
             color: '#ccc'
     selected:
         active:
-            color: '#444'
+            color: '#000'
         inactive:
             color: '#888'
         background:
