@@ -27,7 +27,7 @@ body.normal a:link, a:visited, a:hover, a:active {
     color: #184586;
 }
 
-body.normal .text span {
+body.normal .text > span {
     display: block;
 }
 
